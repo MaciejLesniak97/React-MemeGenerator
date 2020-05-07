@@ -103,7 +103,7 @@ header > p {
 }
 
 .meme > .top {
-    bottom: 0;
+    top: 0;
 }
 
 .meme-form {
